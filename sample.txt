@@ -1,0 +1,4 @@
+abcdefghijk lmnopqrstuv wxyz
+あいうえお かきくけこ さしすせそ
+a lmnopqrstuv wxyzbcdefghijk
+かきくけこ さしすせそ あいうえお
