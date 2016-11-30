@@ -1,0 +1,14 @@
+if [ -p /dev/stdin ]; then
+    text=`cat -`
+	csv=${1}
+else
+	text=`cat ${1}`
+	csv=${2}
+fi
+
+pattern=`echo $csv | tr -s ',' '|'`
+
+htext=`echo -e "${text}" | perl -pe "s/(${pattern})/\e[1;31m$&\e[0m/g"`
+
+echo -e "${htext}"
+
