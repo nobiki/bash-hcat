@@ -15,3 +15,6 @@ or
   # cat sample.txt | hcat abc,xyz
 ```
 
+#### Install
+
+`hcat` is copied in PATH.
