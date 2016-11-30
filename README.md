@@ -6,7 +6,7 @@ perl keyword highlight script
 ```sh
   hcat [FILE] [KEYWORD_OF_CSV]
 
-  # hcat sample.txt | abc,xyz
+  # hcat sample.txt abc,xyz
 ```
 or
 ```sh
