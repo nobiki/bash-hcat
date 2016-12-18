@@ -1,6 +1,8 @@
 # bash-hcat
 perl keyword highlight script
 
+![001](https://raw.githubusercontent.com/nobiki/bash-hcat/images/001.png)
+
 #### Usage
 
 ```sh
