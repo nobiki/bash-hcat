@@ -1,7 +1,12 @@
 # bash-hcat
 perl keyword highlight script
 
-![001](https://raw.githubusercontent.com/nobiki/bash-hcat/images/001.png)
+![001.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/001.png)
+![002.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/002.png)
+![003.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/003.png)
+![004.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/004.png)
+![005.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/005.png)
+![006.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/006.png)
 
 #### Usage
 
