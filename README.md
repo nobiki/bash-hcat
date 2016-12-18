@@ -6,7 +6,6 @@ perl keyword highlight script
 ![003.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/003.png)
 ![004.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/004.png)
 ![005.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/005.png)
-![006.png](https://raw.githubusercontent.com/nobiki/bash-hcat/images/006.png)
 
 #### Usage
 
